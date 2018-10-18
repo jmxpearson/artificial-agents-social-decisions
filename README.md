@@ -1,5 +1,2 @@
-# Systems neuroscience beyond the tuning curve
-John's talk delivered at
-
-- Mt. Sinai Icahn School of Medicine (May 15, 2017)
-- UPenn (June 6, 2017)
+# What artificial agents can teach us about social decisions
+John's talk delivered at Duke Basic Science Day 2018.
